@@ -1,0 +1,29 @@
+default_browser: chrome
+default_email_address: test_mas12345@mailinator.com
+default_password: testing123
+
+icetea1 : "https://zgbwcicet7001.jupiter.bbc.co.uk/"
+icetea2 : "https://zgbwcicet7002.jupiter.bbc.co.uk/"
+unlockicetea1 : "https://zgbwcicet7001.jupiter.bbc.co.uk/api/release_all_locks"
+unlockicetea2 : "https://zgbwcicet7002.jupiter.bbc.co.uk/api/release_all_locks"
+iceteaurl : "https://zgbwcicet700"
+username : "ogunbo02"
+fullname : "Olu Ogunbusola"
+password : "password"
+wrongpassword : "wrongpassword"
+pause : "1.2"
+wait : "5"
+debug : false
+testrail : true
+
+qa:
+  home_page1: "https://zgbwcicet7001.jupiter.bbc.co.uk"
+  home_page2: "https://zgbwcicet7002.jupiter.bbc.co.uk"
+  landing_page: "/"
+  login_page: "/login.html"
+  ticker_page: "/ticker"
+  breaking_page: "/breaking-news"
+  split_page: "/split-screen"
+  menu_page: "/menu"
+  division_page: "/division"
+  intro_page: "/intro"
